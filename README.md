@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noam
+- 👀 I’m interested in security
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on cheat/spoofer
+- 📫 How to reach me : DM on discord Nyzox#0258
